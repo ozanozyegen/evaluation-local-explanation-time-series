@@ -2,18 +2,19 @@
 
 
 ## Experiments
-Evaluation of local explanations is performed in three steps:
-1- Train the models for the datasets
-2- Generate and save feature importances
-3- Evaluate feature importances
+Evaluation of local explanations is performed in three steps: <br>
+1- Train the models for the datasets <br>
+2- Generate feature importances using local explanation methods <br>
+3- Evaluate feature importances <br>
 
 ### Steps
+You can easily reproduce the experiments using the Makefile.
 - Train models
-    - make train_models
+    - `make train_models`
 - Evaluate local explanations
-    - make eval_metrics
+    - `make eval_metrics`
 - Report the training results
-    - make report_train
+    - `make report_train`
 
 ## Data Sources
 ### Electricity
