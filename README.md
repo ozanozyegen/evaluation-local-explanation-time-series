@@ -1,4 +1,4 @@
-# Evaluation of local explanations for time series experiments
+# Evaluation of interpretability methods for multivariate time series forecasting experiments
 
 **Paper link**: https://link.springer.com/article/10.1007/s10489-021-02662-2
 
