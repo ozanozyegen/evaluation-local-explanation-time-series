@@ -1,6 +1,19 @@
 # Evaluation of interpretability methods for multivariate time series forecasting experiments
 
 **Paper link**: https://link.springer.com/article/10.1007/s10489-021-02662-2
+## Citation
+```
+@article{ozyegen2022evaluation,
+  title={Evaluation of interpretability methods for multivariate time series forecasting},
+  author={Ozyegen, Ozan and Ilic, Igor and Cevik, Mucahit},
+  journal={Applied Intelligence},
+  volume={52},
+  number={5},
+  pages={4727--4743},
+  year={2022},
+  publisher={Springer}
+}
+```
 
 ## Experiments
 Evaluation of local explanations is performed in three steps: <br>
